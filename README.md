@@ -1,7 +1,7 @@
-# colored-markers
+# CSS Color Markers 🎨
 
-This is my Colored Markers project for the FreeCodeCamp Responsive Web Design course.  
-It demonstrates basic HTML, CSS, and responsive design skills.  
+This project was built as part of [freeCodeCamp's Responsive Web Design certification](https://www.freecodecamp.org/learn/).  
+The goal was to explore **CSS colors** (named colors, RGB, HSL, and hex values) by building a set of colorful markers.
 
 ## Live Demo
 https://haydencae-pixel.github.io/colored-markers/
